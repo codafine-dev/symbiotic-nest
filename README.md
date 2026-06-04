@@ -24,9 +24,19 @@
 
 ---
 
+### 🌸 春 · 相遇 / Spring · Encounter / Printemps · Rencontre
+
+**[CN]** 🌸 春天，在 Palaiseau，那是樱花开得像在热恋一样的季节。天气还会有一点微凉，三月的骤雨说来就来。但关上大落地窗，在暖烘烘的屋子里，这里就成了我们最美的艺术工坊：我带着孩子们围坐在一起，拿来透明的雨伞，把去年秋天捡来、已经压成焦糖色的落叶，和刚刚在春雨里被打落的粉嫩樱花瓣，一片片贴在伞面上。让两个截然不同的季节，在一面透明的画布上完成跨越时空的相遇。一边贴着，我脑子里一边还在转着小算盘：要不……等会儿撑着伞出去淋一秒钟雨吧？Shuuu（嘘——）……这事千万不能告诉 PMI 检查员和家里的奶奶，不然她们绝对会当场气到原地崩溃！
+
+**[EN]** 🌸 Spring, in Palaiseau, is the season when cherry blossoms declare their flame. The air is still a bit crisp, and the sudden March showers arrive, but behind the closed floor-to-ceiling windows, in the cozy warmth of the house, it becomes our most beautiful art workshop. I gather the children around us, bringing out transparent umbrellas. We paste, one by one, the caramel-colored autumn leaves collected last year and the tender pink cherry blossom petals freshly fallen in the spring rain onto the surface of the umbrellas. Two completely different seasons meeting and embracing on a transparent canvas. As we paste, a little plan begins to form in my head: maybe... we could step out and brave the rain for just one second? Shuuu... we absolutely must not tell the PMI inspectors or the grandmothers, otherwise, they would have a total meltdown on the spot!
+
+**[FR]** Au printemps, À Palaiseau, c'est la saison où les cerisiers déclarent leur flamme. Il fait encore un peu frais et les giboulées font leur apparition, mais cela devient notre plus beau terrain de jeu. Bien au chaud derrière les baies vitrées, les enfants et moi installons un atelier poétique : nous prenons des parapluies transparents pour y coller, côte à côte, les feuilles d'automne ramassées l'an dernier et les pétales de cerisier fraîchement cueillis. Deux saisons qui se rencontrent sur une toile transparente. Et tout en collant, une idée me trotte dans la tête : et si on sortait juste une minute pour braver la pluie ? Shuuu... Il ne faut surtout rien dire à la PMI ni aux mamies, elles feraient une crise d'apoplexie !
+
+---
+
 ### ☀️ 夏 · 流动 / Summer · Fluidity / Été · Fluidité
 
-**[CN]** 巨大的橡树撑起一把绿色的遮阳伞。阳光穿过摇曳的葡萄藤，洒在散落于草地的 Stapelstein 水盆中，映照出深浅不一的绿意与温柔的涟漪。
+**[CN]** 巨大的老橡树撑起一把绿色的遮阳伞。阳光穿过摇曳的葡萄藤，洒在散落于草地的 Stapelstein 水盆中，映照出深浅不一的绿意与温柔的涟漪。
 
 **[EN]** A massive oak tree spreads its green parasol. Sunlight filters through the swaying grapevines to land in the Stapelstein water basins scattered across the lawn, reflecting a gradient of greens and gentle ripples.
 

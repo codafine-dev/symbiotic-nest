@@ -9,6 +9,11 @@
 ## 2. 季节律动 / Seasonal Rhythms / Rythmes Saisonniers
 空间不应是静止的，而应随着季节的更迭，与孩子们共同呼吸。
 
+### 🌸 春 / Spring / Printemps (The Encounter / La Rencontre)
+* **视觉：** Palaiseau 的樱花如热恋般盛开 $\rightarrow$ 落地窗内温暖的艺术工坊。
+* **体验：** 透明雨伞 $\rightarrow$ 贴上焦糖色秋叶与粉嫩樱花瓣 $\rightarrow$ 跨越时空的季节相遇。
+* **氛围：** 灵动、创意、带着一点点“秘密”的调皮。
+
 ### ☀️ 夏 / Summer / Été (The Fluidity / La Fluidité)
 * **视觉：** 巨大的老橡树撑开绿伞，葡萄藤摇曳。
 * **触感：** 散落在草地上的 Stapelstein 翻转石水盆 $\rightarrow$ 捕捉绿意与涟漪。
