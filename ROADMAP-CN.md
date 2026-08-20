@@ -14,6 +14,7 @@
 - [x] 2.3 卡通隐私掩码 (Cartoon Privacy Masking)
 - [x] 2.4 安全警报链 (Safety Alert Chain)
 - [x] 2.5 家庭实验室原型 (Home-Lab Prototype) (徽章、座椅传感器、用餐摄像头)
+- [x] 2.6 BLE + AI 一人公司：启动范围界定
 
 ## 模块 3: 情感纽带 (Emotional Bond)
 - [x] 3.1 分离焦虑锚点 (Separation Anxiety Anchors)
@@ -32,3 +33,10 @@
 - [x] 5.2 天使家长股权/角色 (Angel Parent Equity/Role)
 - [x] 5.3 员工激励与 AI (Staff Motivation & AI)
 - [x] 5.4 规模化框架 (Scaling Framework)
+- [x] 5.5 选址策略 (Site Search)
+
+## 模块 6: 社区 (Community)
+- [x] 6.1 家长主导的社区工坊 (Parent-led Community Workshops)
+
+## 参考
+- [x] 议会成员名录 (COUNCIL-CN.md)

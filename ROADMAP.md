@@ -13,22 +13,30 @@ This repository stores the detailed discussions of the 'Symbiotic Nest' project,
 - [x] 2.2 Oscar Moments Algorithm
 - [x] 2.3 Cartoon Privacy Masking
 - [x] 2.4 Safety Alert Chain
-- [ ] 2.5 Home-Lab Prototype (Badge, Seat Sensors, Dining Camera)
+- [x] 2.5 Home-Lab Prototype (Badge, Seat Sensors, Dining Camera)
+- [x] 2.6 BLE + AI Solo Venture: Initial Scope
 
 ## Module 3: Emotional Bond
-- [ ] 3.1 Separation Anxiety Anchors
-- [ ] 3.2 Trust Building Mechanisms
-- [ ] 3.3 Sound Diary Synthesis
-- [ ] 3.4 Parental Recharge Zones
+- [x] 3.1 Separation Anxiety Anchors
+- [x] 3.2 Trust Building Mechanisms
+- [x] 3.3 Sound Diary Synthesis
+- [x] 3.4 Parental Recharge Zones
 
 ## Module 4: Growth & Health
-- [ ] 4.1 Nutrition Matrix
-- [ ] 4.2 Curiosity Map
-- [ ] 4.3 Bio-rhythm Optimization
-- [ ] 4.4 Home AI Extension
+- [x] 4.1 Nutrition Matrix
+- [x] 4.2 Curiosity Map
+- [x] 4.3 Bio-rhythm Optimization
+- [x] 4.4 Home AI Extension
 
 ## Module 5: Strategic Structure
-- [ ] 5.1 PMI Compliance Strategy
-- [ ] 5.2 Angel Parent Equity/Role
-- [ ] 5.3 Staff Motivation & AI
-- [ ] 5.4 Scaling Framework
+- [x] 5.1 PMI Compliance Strategy
+- [x] 5.2 Angel Parent Equity/Role
+- [x] 5.3 Staff Motivation & AI
+- [x] 5.4 Scaling Framework
+- [x] 5.5 Site Search
+
+## Module 6: Community
+- [x] 6.1 Parent-led Community Workshops
+
+## Reference
+- [x] The Council — persona roster (COUNCIL-CN.md)
