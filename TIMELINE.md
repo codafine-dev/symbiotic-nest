@@ -2,6 +2,8 @@
 
 Dated milestones only — for "what happened when" and "what's next," not task status (see [TODO.md](TODO.md)) or discussion coverage (see [ROADMAP.md](ROADMAP.md)). Past dates below are reconstructed from `git log` and GitHub issue creation timestamps, not memory — re-derive rather than hand-edit if this drifts.
 
+**This is a lower bound, not the true start date.** Lin conceived the project earlier than any of this; a previous agent managed this repo before the current one took over, and that handoff predates what git/issues can reconstruct — 2026-05-05 is just the earliest artifact left behind, not day one.
+
 ## Past
 
 | Date | Event |
