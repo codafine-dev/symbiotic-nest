@@ -45,6 +45,7 @@
 - [x] 5.3 员工激励与 AI (Staff Motivation & AI)
 - [x] 5.4 规模化框架 (Scaling Framework)
 - [x] 5.5 选址策略 (Site Search)
+- [x] 5.6 机构项目书 (Projet d'établissement) 初稿——教育/社会/可持续三部分已写，待 EJE 审核（对应 #21），见 5.6-Projet-Etablissement.md
 
 ## 模块 6: 社区 (Community) 🌱
 

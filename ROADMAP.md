@@ -45,6 +45,7 @@ This repository stores the detailed discussions of the 'Symbiotic Nest' project,
 - [x] 5.3 Staff Motivation & AI
 - [x] 5.4 Scaling Framework
 - [x] 5.5 Site Search
+- [x] 5.6 Projet d'établissement (first draft — pedagogical/social/sustainability sections; pending EJE review per #21, see [[5.6-Projet-Etablissement]])
 
 ## Module 6: Community 🌱
 
