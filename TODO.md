@@ -14,6 +14,7 @@ This is a different tracker from [ROADMAP.md](ROADMAP.md): ROADMAP tracks which 
 - [x] BLE/Bernard "basic version" scope locked, integrated into the Maison narrative (2026-08-21)
 - [x] CERFA n°17580*01 confirmed with the mairie; draft filled with known info (2026-08-26)
 - [x] Projet d'établissement first draft — 5.6, pedagogical/social/sustainability sections (2026-08-26)
+- [x] #6 Director Recruitment Profile drafted (5.7) — closed (2026-08-26)
 
 ## Phase 1: Intelligence & Definition
 
@@ -26,7 +27,6 @@ This is a different tracker from [ROADMAP.md](ROADMAP.md): ROADMAP tracks which 
 ## Phase 2: Administrative Launch
 
 - [ ] #5 AM Certification Pipeline
-- [ ] #6 Director Recruitment Profile
 - [ ] #15 Draft Project Dossier with EJE — 🛑 blocked, needs an EJE partner (see #21)
 - [ ] #16 Submit Project Dossier to PMI
 - [ ] #17 Iterate on PMI Feedback
