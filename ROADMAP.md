@@ -22,7 +22,7 @@ This repository stores the detailed discussions of the 'Symbiotic Nest' project,
 - [x] 2.3 Cartoon Privacy Masking 👻
 - [x] 2.4 Safety Alert Chain 👻
 - [x] 2.5 Home-Lab Prototype (Badge, Seat Sensors, Dining Camera) 👻
-- [x] 2.6 BLE + AI Solo Venture: Initial Scope 🔧
+- [x] 2.6 BLE + AI Solo Venture: Initial Scope 🔧 — moved to a private repo (2026-09-01): contains full incubator application text
 
 ## Module 3: Emotional Bond 👻
 
@@ -44,7 +44,7 @@ This repository stores the detailed discussions of the 'Symbiotic Nest' project,
 - [x] 5.2 Angel Parent Equity/Role
 - [x] 5.3 Staff Motivation & AI
 - [x] 5.4 Scaling Framework
-- [x] 5.5 Site Search
+- [x] 5.5 Site Search — moved to a private repo (2026-09-01): contains concrete addresses and negotiation strategy
 - [x] 5.6 Projet d'établissement (first draft — pedagogical/social/sustainability sections; pending EJE review per #21, see [[5.6-Projet-Etablissement]])
 - [x] 5.7 Director Recruitment Profile — EJE KPIs/requirements, closes #6, see [[5.7-Director-Recruitment-Profile]]
 - [x] 5.8 Gentleness Protocol Handbook — daily operational guidelines for staff, closes #7, see [[5.8-Gentleness-Protocol-Handbook]]

@@ -22,7 +22,7 @@
 - [x] 2.3 卡通隐私掩码 (Cartoon Privacy Masking) 👻
 - [x] 2.4 安全警报链 (Safety Alert Chain) 👻
 - [x] 2.5 家庭实验室原型 (Home-Lab Prototype) (徽章、座椅传感器、用餐摄像头) 👻
-- [x] 2.6 BLE + AI 一人公司：启动范围界定 🔧
+- [x] 2.6 BLE + AI 一人公司：启动范围界定 🔧 ——已移至私有仓库 (2026-09-01)：含完整孵化器申请文案
 
 ## 模块 3: 情感纽带 (Emotional Bond) 👻
 
@@ -44,7 +44,7 @@
 - [x] 5.2 天使家长股权/角色 (Angel Parent Equity/Role)
 - [x] 5.3 员工激励与 AI (Staff Motivation & AI)
 - [x] 5.4 规模化框架 (Scaling Framework)
-- [x] 5.5 选址策略 (Site Search)
+- [x] 5.5 选址策略 (Site Search) ——已移至私有仓库 (2026-09-01)：含具体地址和谈判策略
 - [x] 5.6 机构项目书 (Projet d'établissement) 初稿——教育/社会/可持续三部分已写，待 EJE 审核（对应 #21），见 5.6-Projet-Etablissement.md
 - [x] 5.7 园长招聘画像 (Director Recruitment Profile)——EJE 的 KPI/要求已定，关闭了 #6，见 5.7-Director-Recruitment-Profile.md
 - [x] 5.8 "温柔"操作手册 (Gentleness Protocol Handbook)——员工日常操作指南，关闭了 #7，见 5.8-Gentleness-Protocol-Handbook.md
