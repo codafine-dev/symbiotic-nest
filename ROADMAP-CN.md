@@ -47,6 +47,7 @@
 - [x] 5.5 选址策略 (Site Search)
 - [x] 5.6 机构项目书 (Projet d'établissement) 初稿——教育/社会/可持续三部分已写，待 EJE 审核（对应 #21），见 5.6-Projet-Etablissement.md
 - [x] 5.7 园长招聘画像 (Director Recruitment Profile)——EJE 的 KPI/要求已定，关闭了 #6，见 5.7-Director-Recruitment-Profile.md
+- [x] 5.8 "温柔"操作手册 (Gentleness Protocol Handbook)——员工日常操作指南，关闭了 #7，见 5.8-Gentleness-Protocol-Handbook.md
 
 ## 模块 6: 社区 (Community) 🌱
 

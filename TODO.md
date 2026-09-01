@@ -15,12 +15,12 @@ This is a different tracker from [ROADMAP.md](ROADMAP.md): ROADMAP tracks which 
 - [x] CERFA n°17580*01 confirmed with the mairie; draft filled with known info (2026-08-26)
 - [x] Projet d'établissement first draft — 5.6, pedagogical/social/sustainability sections (2026-08-26)
 - [x] #6 Director Recruitment Profile drafted (5.7) — closed (2026-08-26)
+- [x] #7 'Gentleness' Protocol Handbook drafted (5.8) — closed (2026-08-26)
 
 ## Phase 1: Intelligence & Definition
 
 - [ ] #3 Detailed Financial Projections
 - [ ] #4 Physical Zoning & Floorplan
-- [ ] #7 'Gentleness' Protocol Handbook
 - [ ] #13 Informal chat with PMI Nurse
 - [ ] #14 Finalize Vision Whitepaper
 

@@ -47,6 +47,7 @@ This repository stores the detailed discussions of the 'Symbiotic Nest' project,
 - [x] 5.5 Site Search
 - [x] 5.6 Projet d'établissement (first draft — pedagogical/social/sustainability sections; pending EJE review per #21, see [[5.6-Projet-Etablissement]])
 - [x] 5.7 Director Recruitment Profile — EJE KPIs/requirements, closes #6, see [[5.7-Director-Recruitment-Profile]]
+- [x] 5.8 Gentleness Protocol Handbook — daily operational guidelines for staff, closes #7, see [[5.8-Gentleness-Protocol-Handbook]]
 
 ## Module 6: Community 🌱
 
