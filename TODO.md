@@ -30,7 +30,7 @@ This is a different tracker from [ROADMAP.md](ROADMAP.md): ROADMAP tracks which 
 - [ ] #15 Draft Project Dossier with EJE — 🛑 blocked, needs an EJE partner (see #21)
 - [ ] #16 Submit Project Dossier to PMI
 - [ ] #17 Iterate on PMI Feedback
-- [ ] #23 Décider du statut juridique du porteur de projet (new, 2026-08-26)
+- [ ] #23 Décider du statut juridique du porteur de projet — proposition rédigée ([5.5](Module-5-Strategic-Structure/5.5-Statut-Juridique.md)): **EURL, Lin gérante**; reste à valider avec un expert-comptable + poser la question BEA/preneur à la mairie le 15/09 (new, 2026-08-26)
 - [ ] #24 Rédiger le règlement de fonctionnement (new, 2026-08-26)
 
 ## Phase 3: Resource Alignment
@@ -53,5 +53,5 @@ This is a different tracker from [ROADMAP.md](ROADMAP.md): ROADMAP tracks which 
 
 ## Immediate next
 
-- [ ] Decide legal structure (#23)
+- [ ] Confirm legal structure (#23) — proposal is EURL ([5.5](Module-5-Strategic-Structure/5.5-Statut-Juridique.md)); at the mairie meeting, ask whether a BEA can be granted to a société vs an association
 - [ ] Continue the mairie / PMI preparation with the current project dossier
