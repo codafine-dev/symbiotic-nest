@@ -8,7 +8,7 @@ This is a different tracker from [ROADMAP.md](ROADMAP.md): ROADMAP tracks which 
 
 - [x] Vision, blueprint, seasonal narratives (2026-06-04)
 - [x] All 24 roadmap topics deepened into genuine multi-round Council debates; roadmap tiered 🔧/👻/🌱 (2026-08-21)
-- [x] Site search: ruled out Palaiseau's 2 industrial sites (Cartofriches) and the artist-atelier route (Inventaire Général); chose Path A (buy/BEA) over Path B; financing waterfall finalized (2026-08-21)
+- [x] Site and financing scenarios documented in the private project repository (2026-08-21)
 - [x] IncubAlliance GenesisLab application submitted (2026-08-21)
 - [x] The Bench Aventurine application submitted (2026-08-21)
 - [x] BLE/Bernard "basic version" scope locked, integrated into the Maison narrative (2026-08-21)
@@ -51,7 +51,7 @@ This is a different tracker from [ROADMAP.md](ROADMAP.md): ROADMAP tracks which 
 - [ ] #12 Inspiration: Activités & Ateliers pour la micro-crèche (reference material)
 - [ ] #22 Bonus Character: Jean-Christophe (JC) — ❄️ hibernating, for fun only, no execution impact
 
-## Immediate next (before 2026-09-15)
+## Immediate next
 
-- [ ] Decide legal structure (#23) — ideally before or during the mairie meeting, since it affects the BEA discussion
-- [ ] Bring confirmed CERFA n°17580*01 + this repo's project materials to the 2026-09-15 17:30 meeting
+- [ ] Decide legal structure (#23)
+- [ ] Continue the mairie / PMI preparation with the current project dossier
