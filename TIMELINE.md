@@ -14,19 +14,19 @@ Dated milestones only — for "what happened when" and "what's next," not task s
 | 2026-06-12 | Docs translated to Chinese |
 | 2026-07-28 | Module 6 — Parent-led Community Workshops added |
 | 2026-08-20 | Issue #22 opened (JC bonus character) |
-| 2026-08-21 | Single large push: Council roster documented; site search doc written; all 24 roadmap topics deepened into genuine multi-round debates; roadmap tiered 🔧/👻/🌱; Cartofriches + Inventaire Général checked (no viable abandoned site in Palaiseau); Path A (buy/BEA) chosen over Path B; financing waterfall finalized; incubator candidates researched; BLE/Bernard "basic version" scope locked; **IncubAlliance GenesisLab and The Bench Aventurine applications both submitted** |
-| 2026-08-26 | Mairie (Nadège Bruneau) confirmed CERFA n°17580*01; form draft filled with known info; projet d'établissement first draft (5.6) written; issues #23 (statut juridique) and #24 (règlement de fonctionnement) opened |
+| 2026-08-21 | Single large push: Council roster documented; all 24 roadmap topics deepened into genuine multi-round debates; roadmap tiered 🔧/👻/🌱; site and financing work moved to the private project repo; incubator candidates researched; BLE/Bernard "basic version" scope locked; **IncubAlliance GenesisLab and The Bench Aventurine applications both submitted** |
+| 2026-08-26 | The correct CERFA was confirmed with the mairie; form draft filled with known info; projet d'établissement first draft (5.6) written; issues #23 (statut juridique) and #24 (règlement de fonctionnement) opened |
 
 ## Upcoming (confirmed dates)
 
 | Date | Event |
 |---|---|
-| 2026-09-15, 17:30 | Meeting at the mairie de Palaiseau with Nadège Bruneau — scope agreed: vision + the site ask (75 rue Alexandre Néreau) only, no AI/BLE/financing |
+| 2026-09 | Meeting with the mairie de Palaiseau — scope: project vision and site requirements |
 
 ## Pending (no date yet)
 
 - IncubAlliance GenesisLab response
 - The Bench Aventurine response
-- Legal structure decision (#23) — targeted for on/before 2026-09-15
+- Legal structure decision (#23) — in progress
 - EJE recruitment (#21) — blocks #15 (project dossier) and #24 (règlement de fonctionnement)
-- Site confirmation (75 rue Alexandre Néreau is a candidate, not secured)
+- Site confirmation in Palaiseau (not secured)
