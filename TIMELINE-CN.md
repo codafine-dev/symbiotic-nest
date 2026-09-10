@@ -14,19 +14,19 @@
 | 2026-06-12 | 文档译成中文 |
 | 2026-07-28 | 模块6——家长主导的社区工坊 加入 |
 | 2026-08-20 | Issue #22 开出（JC 彩蛋角色） |
-| 2026-08-21 | 一天内的大推进：议会成员名录写完；选址文档写完；全部24个话题深化成真正的多轮辩论；roadmap 分级 🔧/👻/🌱；Cartofriches + Inventaire Général 都查过了（Palaiseau 没有可用的废弃地块）；确定走 Path A（买/BEA）而不是 Path B；融资瀑布定案；找到孵化器候选名单；BLE/Bernard "基础版" 范围锁定；**IncubAlliance GenesisLab 和 The Bench Aventurine 两份申请都提交了** |
-| 2026-08-26 | 市政府（Nadège Bruneau）确认了 CERFA n°17580*01；表格草稿填好已知信息；机构项目书初稿写完（5.6）；开了 #23（法律结构）和 #24（règlement de fonctionnement）两个 issue |
+| 2026-08-21 | 一天内的大推进：议会成员名录写完；全部24个话题深化成真正的多轮辩论；roadmap 分级 🔧/👻/🌱；选址与融资工作移入私有项目仓库；找到孵化器候选名单；BLE/Bernard "基础版" 范围锁定；**IncubAlliance GenesisLab 和 The Bench Aventurine 两份申请都提交了** |
+| 2026-08-26 | 已向市政府确认正确的 CERFA；表格草稿填好已知信息；机构项目书初稿写完（5.6）；开了 #23（法律结构）和 #24（règlement de fonctionnement）两个 issue |
 
 ## 即将发生（日期已确定）
 
 | 日期 | 事件 |
 |---|---|
-| 2026-09-15 17:30 | 跟 Palaiseau 市政府 Nadège Bruneau 见面——已定范围：只谈愿景 + 房子诉求（75 rue Alexandre Néreau），不谈 AI/BLE/融资 |
+| 2026-09 | 与 Palaiseau 市政府会面——范围为项目愿景与场地需求 |
 
 ## 悬而未决（还没有日期）
 
 - IncubAlliance GenesisLab 的回复
 - The Bench Aventurine 的回复
-- 法律结构决定 (#23) ——目标是 2026-09-15 当天或之前定下来
+- 法律结构决定 (#23) ——推进中
 - 招募 EJE (#21) ——卡住了 #15（项目档案）和 #24（règlement de fonctionnement）
-- 场地确认（75 rue Alexandre Néreau 目前只是候选，还没定）
+- Palaiseau 场地确认（尚未落实）
